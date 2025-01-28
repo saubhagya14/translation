@@ -5,6 +5,7 @@
     "join": "Join",
     "register":"Register",
     "login":"Login",
-    "forget":"Forget"
+    "forget":"Forget",
+    "logout":"Logout"
   }
 }

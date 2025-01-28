@@ -1,4 +1,5 @@
 {
- "home":"Home",
- "login":"Login"
+    "home": "Home",
+    "login": "Login",
+    "about": "About"
 }

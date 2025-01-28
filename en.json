@@ -2,5 +2,6 @@
     "home": "Home",
     "login": "Login",
     "about": "About",
-    "register": "Register"
+    "register": "Register",
+    "forget": "Forget"
 }

@@ -7,6 +7,7 @@
     "login":"Login",
     "forget":"Forget",
     "logout":"Logout",
-    "reset":"Reset"
+    "reset":"Reset",
+    "about":"About"
   }
 }

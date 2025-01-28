@@ -1,0 +1,10 @@
+{
+  "home": {
+    "organization.management": "Organization management",
+    "other.organization": "Other organization",
+    "join": "Join",
+    "register":"Register",
+    "login":"Login",
+    "forget":"Forget"
+  }
+}

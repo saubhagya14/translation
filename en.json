@@ -6,6 +6,7 @@
     "register":"Register",
     "login":"Login",
     "forget":"Forget",
-    "logout":"Logout"
+    "logout":"Logout",
+    "reset":"REset"
   }
 }

@@ -1,1 +1,7 @@
-{}
+{
+    "register": "Register",
+    "home": "Home",
+    "about": "About",
+    "forget": "Forget",
+    "login": "Login"
+}

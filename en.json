@@ -3,5 +3,6 @@
     "login": "Login",
     "about": "About",
     "register": "Register",
-    "forget": "Forget"
+    "forget": "Forget",
+    "reset": "Reset"
 }

@@ -5,5 +5,6 @@
     "register": "Register",
     "forget": "Forget",
     "reset": "Reset",
-    "loginText": "Get Started Now"
+    "loginText": "Get Started Now",
+    "logout": "logout"
 }

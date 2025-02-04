@@ -4,5 +4,6 @@
     "about": "About",
     "register": "Register",
     "forget": "Forget",
-    "reset": "Reset"
+    "reset": "Reset",
+    "loginText": "Get Started Now"
 }

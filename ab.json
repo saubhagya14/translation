@@ -1,10 +1,10 @@
 {
-    "reset": "Reset",
-    "loginText": "Get Started Now",
-    "register": "Register",
-    "about": "About",
-    "home": "Home",
-    "forget": "Forget",
-    "logout": "logout",
-    "login": "Login"
+    "reset": "Аиҭашьақәыргылара",
+    "loginText": "Уажәыҵәҟьа уалага",
+    "register": "Ашәҟәы аҭагалара",
+    "about": "Иазкны",
+    "home": "Аҩны",
+    "forget": "Ахашҭра",
+    "logout": "Адәылҵра",
+    "login": "Аҭалара"
 }

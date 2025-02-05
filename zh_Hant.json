@@ -1,9 +1,9 @@
 {
     "reset": "Reset",
     "register": "Register",
-    "about": "About",
-    "home": "Home",
-    "forget": "Forget",
+    "about": "關於",
+    "home": "家",
+    "forget": "忘記",
     "login": "Login",
     "loginText": "Get Started Now",
     "logout": "logout"

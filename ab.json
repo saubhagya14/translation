@@ -1,1 +1,10 @@
-{}
+{
+    "reset": "Reset",
+    "loginText": "Get Started Now",
+    "register": "Register",
+    "about": "About",
+    "home": "Home",
+    "forget": "Forget",
+    "logout": "logout",
+    "login": "Login"
+}

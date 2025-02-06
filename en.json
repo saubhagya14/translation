@@ -8,7 +8,7 @@
     "loginText": "Get Started Now",
     "logout": "logout",
     "Contactus": "Contactus",
-    "view": "view",
-    "forget-password": "Forget password",
-    "sign-in": "Sign In"
+	"view":"view",
+	"forget-password":"Forget",
+	"sign-in":"Sign In"
 }

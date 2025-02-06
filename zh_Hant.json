@@ -9,5 +9,6 @@
     "logout": "logout",
     "Contactus": "聯絡我們",
     "view": "view",
-    "forget-password": "Forget password"
+    "forget-password": "Forget password",
+    "sign-in": "Sign In"
 }

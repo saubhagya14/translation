@@ -8,5 +8,6 @@
     "logout": "logout",
     "login": "Login",
     "Contactus": "Contactus-fr",
-    "view": "view"
+    "view": "view",
+    "forget-password": "Forget password"
 }

@@ -17,5 +17,7 @@
     "phoneNumber_placeholder": "请输入您的电话号码",
     "confirmPassword": "确认密码",
     "confirmPassword_placeholder": "请输入您的确认密码",
-    "back": "后退"
+    "back": "后退",
+    "enterprise": "Enterprise",
+    "home": "Home"
 }

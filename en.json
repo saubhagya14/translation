@@ -1,21 +1,5 @@
 {
-  "i18n-jwg27yo4": "Hello ",
-  "title": "Topsea",
-  "loginText": "Get Started Now",
-  "email": "email",
-  "password": "password",
-  "password_placeholder": "Please enter your password",
-  "email_placeholder": "Please enter your email",
-  "remember": "Remember for 30 days",
-  "login": "Login",
-  "no_account": "Don’t have an account?",
-  "signUp": "sign Up",
-  "i18n-jwg27yo3": "Doctor {name}",
-  "or": "OR",
-  "select_language": "Language",
-  "phoneNumber": "Phone Number",
-  "phoneNumber_placeholder": "Please enter your Phone Number",
-  "confirmPassword": "Confirm Password",
-  "confirmPassword_placeholder": "Please enter your Confirm Password",
-  "back": "Back"
+    "home": "Home",
+    "enterprise": "Enterprise",
+	"login":"Login button"
 }

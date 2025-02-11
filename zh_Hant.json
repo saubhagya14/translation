@@ -10,5 +10,22 @@
     "Contactus": "聯絡我們",
     "view": "view",
     "forget-password": "Forget password",
-    "sign-in": "Sign In"
+    "sign-in": "Sign In",
+    "remember": "Remember for 30 days",
+    "title": "Topsea",
+    "password": "password",
+    "i18n-jwg27yo3": "Doctor {name}",
+    "email_placeholder": "Please enter your email",
+    "confirmPassword_placeholder": "Please enter your Confirm Password",
+    "phoneNumber": "Phone Number",
+    "email": "email",
+    "or": "OR",
+    "i18n-jwg27yo4": "Hello ",
+    "password_placeholder": "Please enter your password",
+    "select_language": "Language",
+    "back": "Back",
+    "phoneNumber_placeholder": "Please enter your Phone Number",
+    "no_account": "Don’t have an account?",
+    "signUp": "sign Up",
+    "confirmPassword": "Confirm Password"
 }

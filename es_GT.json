@@ -1,1 +1,5 @@
-{}
+{
+    "enterprise": "Enterprise",
+    "home": "Home",
+    "login": "Login"
+}

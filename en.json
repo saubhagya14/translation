@@ -1,5 +1,9 @@
 {
-    "home": "Home",
-    "enterprise": "Enterprise",
-    "login": "Login button"
+	"home" : {
+		"firstName" : "First Name"
+	},
+	"login" : {
+		"email" : "Email",
+		"password":"Password"
+	}
 }

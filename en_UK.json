@@ -1,5 +1,10 @@
 {
     "enterprise": "Enterprise",
-    "home": "Home",
-    "login": "Login"
+    "home": {
+        "firstName": "First Name"
+    },
+    "login": {
+        "email": "Email",
+        "password": "Password"
+    }
 }

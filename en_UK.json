@@ -1,9 +1,0 @@
-{
-    "login": {
-        "email": "Email",
-        "password": "Password"
-    },
-    "home": {
-        "firstName": "First Name"
-    }
-}

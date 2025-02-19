@@ -1,1 +1,21 @@
-{}
+{
+    "remember": "Remember for 30 days",
+    "i18n-jwg27yo3": "Doctor {name}",
+    "phoneNumber": "Phone Number",
+    "or": "OR",
+    "select_language": "Language",
+    "phoneNumber_placeholder": "Please enter your Phone Number",
+    "signUp": "Sign Up",
+    "title": "Login Application",
+    "password": "password",
+    "loginText": "Get Started Now",
+    "email_placeholder": "Please enter your email",
+    "confirmPassword_placeholder": "Please enter your Confirm Password",
+    "email": "email",
+    "password_placeholder": "Please enter your password",
+    "back": "Back",
+    "logout": "Logout",
+    "login": "Login",
+    "no_account": "Don’t have an account?",
+    "confirmPassword": "Confirm Password"
+}

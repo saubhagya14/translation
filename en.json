@@ -18,7 +18,8 @@
     "confirmPassword": "Confirm Password",
     "confirmPassword_placeholder": "Please enter your Confirm Password",
     "back": "Back",
-    "logout": "logout",
-    "a": "A",
-    "b": "B"
+	"logout":"Logout",
+	"a":"A",
+	"b":"B",
+	"c":"C"
 }

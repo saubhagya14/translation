@@ -9,7 +9,7 @@
     "remember": "Remember for 30 days",
     "login": "Login",
     "no_account": "Don’t have an account?",
-    "signUp": "sign Up",
+    "signUp": "Sign Up",
     "i18n-jwg27yo3": "Doctor {name}",
     "or": "OR",
     "select_language": "Language",
@@ -18,8 +18,8 @@
     "confirmPassword": "Confirm Password",
     "confirmPassword_placeholder": "Please enter your Confirm Password",
     "back": "Back",
-	"logout":"Logout",
-	"a":"A",
-	"b":"B",
-	"c":"C"
+    "logout": "Logout",
+    "a": "A",
+    "b": "B",
+    "c": "C"
 }

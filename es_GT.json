@@ -1,9 +1,24 @@
 {
-    "login": {
-        "email": "Email",
-        "password": "Password"
-    },
+    "login": "Login",
     "home": {
         "firstName": "First Name"
-    }
+    },
+    "remember": "Remember for 30 days",
+    "i18n-jwg27yo3": "Doctor {name}",
+    "email_placeholder": "Please enter your email",
+    "confirmPassword_placeholder": "Please enter your Confirm Password",
+    "phoneNumber": "Phone Number",
+    "or": "OR",
+    "select_language": "Language",
+    "phoneNumber_placeholder": "Please enter your Phone Number",
+    "no_account": "Don’t have an account?",
+    "signUp": "sign Up",
+    "confirmPassword": "Confirm Password",
+    "title": "Topsea",
+    "password": "password",
+    "loginText": "Get Started Now",
+    "email": "email",
+    "i18n-jwg27yo4": "Hello",
+    "password_placeholder": "Please enter your password",
+    "back": "Back"
 }

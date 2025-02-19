@@ -17,5 +17,6 @@
   "phoneNumber_placeholder": "Please enter your Phone Number",
   "confirmPassword": "Confirm Password",
   "confirmPassword_placeholder": "Please enter your Confirm Password",
-  "back": "Back"
+  "back": "Back",
+  "logout": "logout"
 }

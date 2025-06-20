@@ -9,7 +9,7 @@ projects:
         file_format: json
         vcs: git
         repo: 'https://github.com/saubhagya14/translation.git'
-        branch: dev
+        branch: Dev
         filemask: 'i18n/p1/v1/*.json'
         template: 'i18n/p1/v1/en.json'
         base_file: 'i18n/p1/v1/en.json'
@@ -20,7 +20,7 @@ projects:
         file_format: json
         vcs: git
         repo: 'https://github.com/saubhagya14/translation.git'
-        branch: dev
+        branch: Dev
         filemask: 'i18n/p1/v2/*.json'
         template: 'i18n/p1/v2/en.json'
         base_file: 'i18n/p1/v2/en.json'

@@ -1,1 +1,27 @@
 
+
+version: 1
+projects:
+  - name: translation
+    components:
+      - name: MyApp v1
+        slug: myapp-v1
+        file_format: json
+        vcs: git
+        repo: 'https://github.com/saubhagya14/translation.git'
+        branch: dev
+        filemask: 'i18n/p1/v1/*.json'
+        template: 'i18n/p1/v1/en.json'
+        base_file: 'i18n/p1/v1/en.json'
+        new_base: 1
+
+      - name: MyApp v2
+        slug: myapp-v2
+        file_format: json
+        vcs: git
+        repo: 'https://github.com/saubhagya14/translation.git'
+        branch: dev
+        filemask: 'i18n/p1/v2/*.json'
+        template: 'i18n/p1/v2/en.json'
+        base_file: 'i18n/p1/v2/en.json'
+        new_base: 1

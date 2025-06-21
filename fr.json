@@ -17,5 +17,6 @@
     "confirmPassword": "Confirm Password",
     "confirmPassword_placeholder": "Please enter your Confirm Password",
     "back": "Back",
-    "logout": "Logout"
+    "logout": "Logout",
+    "new": "new-fr"
 }
